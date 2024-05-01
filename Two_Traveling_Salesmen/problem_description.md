@@ -15,8 +15,6 @@ solution is possible. Remember: a path can’t backtrack.
 respectively, and each has cost 29. That’s a coincidence; the costs of the two paths can be different. In the
 example, the paths meet only at s and t. But they may meet at any vertex.
 
-![image](raw/image.png)
-
 ---
 
 
