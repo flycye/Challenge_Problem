@@ -13,7 +13,7 @@ solution is possible. Remember: a path can’t backtrack.
 >
 > The figure below shows a weighted directed graph and a solution. The two paths are colored red and blue,
 respectively, and each has cost 29. That’s a coincidence; the costs of the two paths can be different. In the
-example, the paths meet only at s and t. But they may meet at any vertex.
+example, the paths meet only at s and t. But they may meet at any vertex. (**See problem_figure1 in files**)
 
 ---
 
