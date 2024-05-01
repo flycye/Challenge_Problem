@@ -27,3 +27,5 @@ coins.
 5. for all other elements from 2 to n
    1. add the value of the current coin to the value of the coin before previous, if greater than prev
 6. return the last element in maxValues (bigger)
+
+---
